@@ -26,7 +26,7 @@
     <div id="app">
   
         <main class="container">
-            <h1> How to Install Bootstrap 5 in Laravel 10 - ItSolutionstuiff.com</h1>
+            <h1> BELAJAR KODING WEBSITE LARAVEL</h1>
             <div class="card">
               <div class="card-header">
                 Icons
